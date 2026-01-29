@@ -1,8 +1,8 @@
-<h3 align="center">A passionate python developer from germany</h3>
+<h3 align="center">hi there im Tom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-jm03&label=Profile%20views&color=0e75b6&style=flat" alt="tom-jm03" /> </p>
 
-- 🔭 I’m currently working on **https://top.gg/bot/1015320963040149555/**
+- 🔭 I’m currently working on **https://github.com/tom-jm69/checkmk-sdp**
 
 
 <h3 align="left">Languages and Tools:</h3>
