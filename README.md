@@ -1,4 +1,4 @@
-<h3 align="center">hi there im Tom</h3>
+<h3 align="center">hi there i'm Tom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-jm03&label=Profile%20views&color=0e75b6&style=flat" alt="tom-jm03" /> </p>
 
