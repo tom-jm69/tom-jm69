@@ -20,7 +20,7 @@
 
 ### About
 
-Linux DevOps engineer focused on infrastructure automation, CI/CD, and observability. I design and provision infrastructure as code, build pipelines that ship containerized apps automatically, and wire up monitoring so issues surface before they become incidents. Python is the glue I use to automate everything in between. Outside of work hours that same curiosity goes into Linux itself — distro-hopping, window managers, and a heavily customized, keyboard-driven setup — plus microcontrollers, Home Assistant smart-home automation, and 3D printing.
+Linux DevOps engineer focused on infrastructure automation, CI/CD, and observability. I design and provision infrastructure as code, and build pipelines that handle Docker image builds, security scanning, monitoring-agent rollout, and app deployment end to end. Python is the glue I use to automate everything in between. Outside of work hours that same curiosity goes into Linux itself — distro-hopping, window managers, and a heavily customized, keyboard-driven setup — plus microcontrollers, Home Assistant smart-home automation, and 3D printing.
 
 ---
 
@@ -31,7 +31,7 @@ Linux DevOps engineer focused on infrastructure automation, CI/CD, and observabi
 | **IaC & Provisioning** | Terraform, Packer, Ansible |
 | **CI/CD & Automation** | GitLab CI/CD, Bash, Docker |
 | **Cloud & Virtualization** | AWS (EC2), OVH, VMware |
-| **Monitoring & Observability** | Checkmk, Prometheus, Grafana, Loki, Nagios, Icinga2 |
+| **Monitoring & Observability** | Checkmk, Prometheus, Grafana, Grafana Alloy, Loki, Nagios, Icinga2 |
 | **Security & Hardening** | Lynis audits, SSH key management, system hardening |
 | **Languages & Frameworks** | Python (asyncio, FastAPI), Bash |
 | **Linux Internals** | Distro-hopping (Arch, Debian-based), tiling WMs, systemd, dotfile management |
