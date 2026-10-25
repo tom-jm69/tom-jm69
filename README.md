@@ -20,13 +20,7 @@
 
 ### About
 
-- ☁️ Linux DevOps engineer — infrastructure automation, CI/CD, and monitoring end to end
-- ⚙️ IaC & provisioning: Terraform + Packer (VM templates), Ansible for fleet config management and app rollout
-- 🚀 Building CI/CD pipelines (GitLab) that build, test, and ship Docker images automatically
-- 🔒 Hardening at scale: automated security audits (Lynis) and centralized SSH key management
-- 📈 Observability: Checkmk, Prometheus/Grafana, Nagios/Icinga2 — plus tooling that turns alerts into tickets automatically
-- 🐍 Python (async/FastAPI) for the automation glue between all of the above
-- 🔭 Currently building **[checkmk.py](https://github.com/tom-jm69/checkmk.py)** — an async Checkmk REST API client
+Linux DevOps engineer focused on infrastructure automation, CI/CD, and observability. I design and provision infrastructure as code, build pipelines that ship containerized apps automatically, and wire up monitoring so issues surface before they become incidents. Python is the glue I use to automate everything in between. Outside of work hours that same curiosity goes into Linux itself — distro-hopping, window managers, and a heavily customized, keyboard-driven setup — plus microcontrollers, Home Assistant smart-home automation, and 3D printing.
 
 ---
 
@@ -40,7 +34,8 @@
 | **Monitoring & Observability** | Checkmk, Prometheus, Grafana, Loki, Nagios, Icinga2 |
 | **Security & Hardening** | Lynis audits, SSH key management, system hardening |
 | **Languages & Frameworks** | Python (asyncio, FastAPI), Bash |
-| **Practices** | Scrum, Linux system administration, containerization |
+| **Linux Internals** | Distro-hopping (Arch, Debian-based), tiling WMs, systemd, dotfile management |
+| **Practices** | Scrum, containerization |
 
 ---
 
@@ -48,7 +43,7 @@
 
 | Project | Description |
 |---|---|
-| [**checkmk.py**](https://github.com/tom-jm69/checkmk.py) | Async Python API wrapper for Checkmk, with full type hints and Pydantic models for validated, structured monitoring data. |
+| [**checkmk.py**](https://github.com/tom-jm69/checkmk.py) 🔭 *active* | Async Python API wrapper for Checkmk, with full type hints and Pydantic models for validated, structured monitoring data. |
 | [**skyblock-prometheus-exporter**](https://github.com/tom-jm69/skyblock-prometheus-exporter) | Prometheus exporter that pulls market data from a public API and exposes it as metrics, feeding a Grafana dashboard — a self-contained observability pipeline. |
 | [**traefik-py**](https://github.com/tom-jm69/traefik-py) | Lightweight async wrapper around the Traefik API for scripting reverse-proxy/routing management. |
 | [**cybershoke-server-picker-tui**](https://github.com/tom-jm69/cybershoke-server-picker-tui) | Terminal UI for browsing and connecting to game servers — practice in building fast, usable CLI tooling. |
